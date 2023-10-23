@@ -7,5 +7,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KyloRen1&column=8&theme=nord)](https://github.com/KyloRen1)
 
-[![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyloRen1&show_icons=true&theme=dark)]
+![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyloRen1&show_icons=true&theme=dark)
 
